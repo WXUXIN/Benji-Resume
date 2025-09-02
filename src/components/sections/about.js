@@ -125,17 +125,16 @@ const About = () => {
   }, []);
 
   const skills = [
-    'Python',
-    'SQL',
-    'ML',
-    'Spark',
-    'Airflow',
-    'Git',
-    'Dbt',
-    'Power BI',
-    'Snowflake',
-    'Metabase',
-    'Tableau',
+    'MongoDB',
+    'Express.js',
+    'AWS',
+    'Apache Airflow',
+    'Apache Spark',
+    'Apache Kafka',
+    'dbt',
+    'React.js',
+    'Node.js',
+    'Pandas',
   ];
 
   return (
