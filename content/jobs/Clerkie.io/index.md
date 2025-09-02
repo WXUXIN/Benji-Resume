@@ -4,7 +4,7 @@ title: 'Software Engineering Intern'
 company: 'Clerkie.io'
 location: 'San Francisco, CA'
 range: 'Aug 2024 - Jul 2025'
-url: 'https://us.mullenlowe.com/'
+url: 'https://www.getfiber.ai/'
 ---
 
 - Engineered a mission-critical Debt Recovery CRM and Payment Portal using Node.js and MongoDB within 2 months, enabling major North American collection agencies to manage over $1 billion in debt portfolios.

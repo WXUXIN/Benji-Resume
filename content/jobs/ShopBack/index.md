@@ -1,10 +1,10 @@
 ---
 date: '2017-12-21'
-title: 'Data Analyst Intern'
+title: 'Data Analytics Engineering Intern'
 company: 'ShopBack'
 location: 'Singapore'
 range: 'Jan 2024 - Jun 2024'
-url: 'https://www.apple.com/music/'
+url: 'https://www.shopback.sg/'
 ---
 
 - Spearheaded first-ever Geospatial Business Intelligence project using ML techniques through Python and SQL, implementing intelligent search algorithms and automated quality filtering that enabled zonal-level scaling operations and estimated physical store coverage in Singapore, improving resource allocations by up to 80%.
