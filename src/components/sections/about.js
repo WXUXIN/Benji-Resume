@@ -126,6 +126,7 @@ const About = () => {
 
   const skills = [
     'MongoDB',
+    'Redis',
     'Express.js',
     'React.js',
     'Node.js',
@@ -134,6 +135,17 @@ const About = () => {
     'Apache Spark',
     'Apache Kafka',
     'dbt',
+    'Docker',
+  ];
+
+  const languages = [
+    'Python',
+    'JavaScript',
+    'Golang',
+    'Java',
+    'R',
+    'SQL',
+    'Web Programming (HTML, CSS)',
   ];
 
   return (
@@ -147,10 +159,18 @@ const About = () => {
               Hello! My name is Benjamin, I'm a Software/Data Engineer with over 3 years of
               professional experience in Silicon Valley and Southeast Asia.
             </p>
-
             <p></p>
+            <p>Here are the languages I've been working with:</p>
+          </div>
 
-            <p>Here are a few technologies I’ve been working with recently:</p>
+          <ul className="skills-list">
+            {languages && languages.map((language, i) => <li key={i}>{language}</li>)}
+          </ul>
+
+          <div>
+            <p style={{ marginTop: '20px' }}>
+              Here are the technologies I’ve been working with recently:
+            </p>
           </div>
 
           <ul className="skills-list">
