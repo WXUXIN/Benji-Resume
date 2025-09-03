@@ -55,7 +55,9 @@ const Contact = () => {
 
   return (
     <StyledContactSection id="contact" ref={revealContainer}>
-      <h2 className="title">Get In Touch</h2>
+      <h2 className="title" style={{ marginTop: '90px' }}>
+        Get In Touch
+      </h2>
 
       <p>Drop me an email if you want to chat!</p>
 
