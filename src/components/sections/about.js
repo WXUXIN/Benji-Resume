@@ -127,14 +127,13 @@ const About = () => {
   const skills = [
     'MongoDB',
     'Express.js',
+    'React.js',
+    'Node.js',
     'AWS',
     'Apache Airflow',
     'Apache Spark',
     'Apache Kafka',
     'dbt',
-    'React.js',
-    'Node.js',
-    'Pandas',
   ];
 
   return (
@@ -144,7 +143,10 @@ const About = () => {
       <div className="inner">
         <StyledText>
           <div>
-            <p>Hello! My name is Benjamin and I enjoy creating things that live on the internet.</p>
+            <p>
+              Hello! My name is Benjamin, I'm a Software/Data Engineer with over 3 years of
+              professional experience in Silicon Valley and Southeast Asia.
+            </p>
 
             <p></p>
 

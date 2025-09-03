@@ -13,8 +13,6 @@ url: 'https://quest-inc.co/'
 
 - Streamlined data visualization workflows by developing and refining data pipelines using Python data processing libraries like Pandas, saving over 15 hours per week.
 
-- Initiated data analysis using Python to derive crucial insights, identify business growth points, and inform strategic decisions.
-
 - Achieved steady growth in MAU by 140% and DAU by 120% through data-driven approaches and user engagement strategies.
 
 - Developed, refined, and maintained Tableau dashboards, providing weekly analysis of key metrics and business performance indicators.

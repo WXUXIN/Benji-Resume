@@ -7,12 +7,7 @@ range: 'Jan 2024 - Jun 2024'
 url: 'https://www.shopback.sg/'
 ---
 
-- Spearheaded first-ever Geospatial Business Intelligence project using ML techniques through Python and SQL, implementing intelligent search algorithms and automated quality filtering that enabled zonal-level scaling operations and estimated physical store coverage in Singapore, improving resource allocations by up to 80%.
-
-- Designed and owned end-to-end ETL data pipelines using Apache Airflow, Apache Spark and dbt, improving pipeline reliability and reducing manual data interventions by 40%.
-
-- Developed and fine-tuned data models using dbt and SparkSQL, resulting in 30% faster query performance and significantly improving the accuracy of business-critical analytics.
-
-- Delivered 20+ interactive BI dashboards on Holistics and Metabase, empowering cross-functional teams to make data-driven decisions faster and improving stakeholder reporting efficiency by 25%.
-
-- Executed a zero-downtime migration of over 56 million records, ensuring seamless data continuity and system integrity throughout the process.
+- Designed and managed end-to-end ETL pipelines using Apache Airflow, Spark, and dbt, MySQL, improving reliability and reducing manual intervention by 40%.
+- Developed first Geospatial BI system using Python, MySQL, and ML algorithms, enabling zonal-level scaling and improving resource allocation efficiency by 80%.
+- Optimized data models with dbt and SparkSQL, improving query performance by 30% and boosting analytics accuracy.
+- Executed zero-downtime migration of 56M+ records, ensuring seamless data integrity and system continuity.
