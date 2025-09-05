@@ -136,11 +136,14 @@ const About = () => {
     'Apache Kafka',
     'dbt',
     'Docker',
+    'Flink',
   ];
 
   const languages = [
     'Python',
+    'Typescript',
     'JavaScript',
+    'Scala',
     'Golang',
     'Java',
     'R',
