@@ -40,6 +40,10 @@ const StyledHeroSection = styled.section`
     max-width: 540px;
   }
 
+  .highlight {
+    color: var(--green);
+  }
+
   .email-link {
     ${({ theme }) => theme.mixins.bigButton};
     margin-top: 50px;
@@ -65,8 +69,8 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m a software engineer specializing in backend development, data science, and data
-        engineering.
+        I'm a software engineer with <span className="highlight"> 3+ years</span> of experience
+        specializing in backend development, data science, and data engineering.
       </p>
     </>
   );
