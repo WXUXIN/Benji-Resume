@@ -166,8 +166,10 @@ const About = () => {
             <p>
               Hello! My name is Benjamin, I'm a Software/Data Engineer with{' '}
               <span className="highlight"> over 3 years</span> of professional experience in{' '}
-              <span className="highlight"> Silicon Valley and Southeast Asia</span> building
-              financial products and data solutions.
+              <span className="highlight">
+                {' '}
+                Silicon Valley and Southeast Asia building financial products and data solutions.{' '}
+              </span>
             </p>
             <p></p>
             <p>Here are the languages I've been working with:</p>
